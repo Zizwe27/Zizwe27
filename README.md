@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zizwe Mtonga!
 - 👀 I’m interested in computer programming, specifically software engineering and web development.
-- 🌱 I’m currently pursuing Comouter Ccience degree.
+- 🌱 I’m currently pursuing Computer Science degree.
 - 💞️ I’m looking to collaborate on Projects in python or web development. 
 - 📫 How to reach me via email: zizwe.mtonga@bulldogs.aamu.edu
 
